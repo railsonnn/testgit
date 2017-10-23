@@ -3,7 +3,8 @@ public static void main(String[] args) {
   System.out.print{"Hello world!!!"};
 
 
-System.out.print{"Partiu casa!!!"};
+System.out.print{"estou cansadao!!!"};
+
   }
 
 }
